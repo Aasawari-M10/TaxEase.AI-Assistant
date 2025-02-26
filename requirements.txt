@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+google-cloud
+google-api-core
+google-cloud-discoveryengine
+vertexai
+typing-extensions
